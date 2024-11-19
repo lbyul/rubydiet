@@ -1,0 +1,14 @@
+{
+  "name": "rubydiet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lbyul/rubydiet.git",
+  "author": "“lbyul” <rlaquf7737@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass styles/main.scss:css/style.css --watch"
+  },
+  "devDependencies": {
+    "sass": "^1.81.0"
+  }
+}
